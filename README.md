@@ -1,2 +1,3 @@
 # Fit-to-Music
-Used to fit a function to music? hope so.. o/
+
+Goal for now is to cluster playlists and see what to do next
